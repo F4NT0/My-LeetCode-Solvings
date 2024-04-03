@@ -1,0 +1,54 @@
+# NuGet packages
+packages/
+
+# NuGet symbol packages cache
+*.nupkg
+
+# Visual Studio settings, logs, etc.
+*.suo
+*.user
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Windows image file cache
+Thumbs.db
+
+# Temp folder
+temp/
+
+# Test output
+TestResults/
+coverage.*
+*.coverage
+**/*.screenshot.png
+
+# Diagnostic files
+*.log
+*.err
+*.crash
+
+# Windows specific files
+desktop.ini
+*.com
+*.exe
+
+# Build output
+Build/
+bin/
+obj/
+*.pdb
+*.xml
+*.dll.config
+*.exe.config
+
+# Test projects
+**/*Tests*/bin/
+**/*Tests*/obj/
+**/*Tests*/.vscode/
+**/*Tests*/TestResults/
+
+# Test coverage
+**/coverage.opencover.xml
+**/coverage/*
