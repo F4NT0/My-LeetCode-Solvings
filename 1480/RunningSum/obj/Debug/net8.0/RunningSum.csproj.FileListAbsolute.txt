@@ -1,0 +1,15 @@
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\bin\Debug\net8.0\RunningSum.exe
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\bin\Debug\net8.0\RunningSum.deps.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\bin\Debug\net8.0\RunningSum.runtimeconfig.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\bin\Debug\net8.0\RunningSum.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\bin\Debug\net8.0\RunningSum.pdb
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.AssemblyInfoInputs.cache
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.AssemblyInfo.cs
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.sourcelink.json
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\refint\RunningSum.dll
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.pdb
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\RunningSum.genruntimeconfig.cache
+C:\Users\Gabriel_Stundner\source\repos\GITHUB\My-LeetCode-Solvings\1480\RunningSum\obj\Debug\net8.0\ref\RunningSum.dll
