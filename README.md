@@ -4,7 +4,10 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/F4NT0_C0D3?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/F4NT0_C0D3/)
 
-This repo is to show my responses and tests in C# for the LeetCode challenges!
+## My Languages
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&color=purple&logo=csharp&logoColor=white)
 
 ---
 
