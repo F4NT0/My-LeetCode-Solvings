@@ -18,6 +18,7 @@
 
 ## Array Challenges
 
+- [1.  Two Sum](My-LeetCode-Solvings/blob/main/1/README.md) $\color{lightgreen}\sf Easy$
 - [1480. Running Sum of 1d Array](My-LeetCode-Solvings/blob/main/1480/README.md) $\color{lightgreen}\sf Easy$
 
 ## Matrix Challenges
