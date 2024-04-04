@@ -34,3 +34,7 @@
 ## List Challenges
 
 - [412. Fizz Buzz](My-LeetCode-Solvings/blob/main/412/README.md)  $\color{lightgreen}\sf Easy$
+
+## Linked List Challenges
+
+- [876. Middle of the Linked List](My-LeetCode-Solvings/blob/main/876/README.md) $\color{lightgreen}\sf Easy$
