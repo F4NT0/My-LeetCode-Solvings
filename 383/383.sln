@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNote", "RansomNote\RansomNote.csproj", "{DC80A7C3-63BA-4F82-89F3-A3D537252715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RansomNoteTest", "RansomNoteTest\RansomNoteTest.csproj", "{8FD20C59-E07F-482A-B936-E563E1569FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC80A7C3-63BA-4F82-89F3-A3D537252715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC80A7C3-63BA-4F82-89F3-A3D537252715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC80A7C3-63BA-4F82-89F3-A3D537252715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC80A7C3-63BA-4F82-89F3-A3D537252715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD20C59-E07F-482A-B936-E563E1569FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD20C59-E07F-482A-B936-E563E1569FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD20C59-E07F-482A-B936-E563E1569FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD20C59-E07F-482A-B936-E563E1569FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
