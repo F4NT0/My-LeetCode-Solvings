@@ -210,3 +210,10 @@ jobs:
 
 $solutionNameYml = $solutionName + '.yml'
 $workflowScript | Out-File -FilePath $solutionNameYml
+
+# --------------------
+# BACK TO ROOT FOLDER
+# -------------------
+
+cd ..
+cd ..
