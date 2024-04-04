@@ -1,4 +1,4 @@
-name: 1480 - Testing Results
+name: 58 - Testing Results
 
 on:
   push:
@@ -35,4 +35,4 @@ jobs:
 
     # Execute all unit tests in the solution
     - name: Execute Unit Tests
-      run: dotnet test --nologo --logger "console;verbosity=detailed" 1480\RunningSumTest\RunningSumTest.csproj
+      run: dotnet test --nologo --logger "console;verbosity=detailed" 58\ProjectTest\ProjectTest.csproj
