@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleLinkedList", "MiddleLinkedList\MiddleLinkedList.csproj", "{DD98A444-66F5-48A3-940D-C6F12139E2C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleLinkedListTest", "MiddleLinkedListTest\MiddleLinkedListTest.csproj", "{944974FA-D697-405B-ACA1-DDBF40568266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD98A444-66F5-48A3-940D-C6F12139E2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD98A444-66F5-48A3-940D-C6F12139E2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD98A444-66F5-48A3-940D-C6F12139E2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD98A444-66F5-48A3-940D-C6F12139E2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944974FA-D697-405B-ACA1-DDBF40568266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944974FA-D697-405B-ACA1-DDBF40568266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944974FA-D697-405B-ACA1-DDBF40568266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944974FA-D697-405B-ACA1-DDBF40568266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
