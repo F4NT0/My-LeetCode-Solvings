@@ -14,6 +14,7 @@
 ## Math Challenges
 
 - [9. Palindrome Number](My-LeetCode-Solvings/blob/main/9/README.md) $\color{lightgreen}\sf Easy$
+- [1342. Number of Steps to Reduce a Number to Zero](My-LeetCode-Solvings/blob/main/1342/README.md) $\color{lightgreen}\sf Easy$ 
 
 ## String Challenges
 
