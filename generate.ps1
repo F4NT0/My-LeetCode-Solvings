@@ -46,23 +46,24 @@ dotnet add $testProjectName/$testProjectName.csproj reference $projectName/$proj
 # ADD SIMPLE HELLO WORLD INTO THE PROJECT
 # ----------------------------------------
 
-Write-Host  'Adding Template code into the project...' -ForegroundColor DarkYellow
+Write-Host ''
+Write-Host 'Adding Template code into the project...' -ForegroundColor DarkYellow
 Write-Host ''
 $code = @"
 namespace $projectName
 {
     public class Program
     {
-        static void Main(string[] args)
-        {
-            string test = GetHelloWorld();
-            Console.WriteLine(test);
-        }
+      public static string GetHelloWorld()
+      {
+          return `"Hello World!`";
+      }
 
-        public static string GetHelloWorld()
-        {
-            return `"Hello World!`";
-        }
+      public static void Main(string[] args)
+      {
+          string test = GetHelloWorld();
+          Console.WriteLine(test);
+      }
     }
 }
 "@
@@ -73,7 +74,7 @@ $code | Out-File -FilePath $projectName/Program.cs
 # ADD TESTS INTO THE TEST PROJECT
 # --------------------------------
 
-Write-Host  'Adding Template code into the project test...' -ForegroundColor DarkYellow
+Write-Host 'Adding Template code into the project test...' -ForegroundColor DarkYellow
 Write-Host ''
 $testCode = @"
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -112,7 +113,100 @@ dotnet run --project $projectName/$projectCsproj
 # -------------
 # RUN THE TESTS
 # --------------
-Write-Host  'Running the tests...' -ForegroundColor Magenta
+Write-Host ''
+Write-Host 'Running the tests...' -ForegroundColor Magenta
 Write-Host ''
 $testProjectCsproj = $testProjectName + '.csproj'
 dotnet test $testProjectName/$testProjectCsproj
+
+# ===========================
+# CREATING THE DOCUMENTATION
+# ===========================
+
+Write-Host ''
+Write-Host 'Creating Documentation...' -ForegroundColor Cyan
+Write-Host ''
+$readme = @"
+# $solutionName
+Level: `$\color{lightgreen}{\sf Easy}$` OR `$\color{gold}{\sf Medium}$` OR `$\color{red}{\sf Hard}$`
+
+Language: C#
+
+Topic: $\color{yellow} \sf insert \space topic \space here$
+
+---
+
+ADD HERE THE DESCRIPTION OF THE PROJECT AND EXAMPLES
+
+"@
+
+$readme | Out-File -FilePath README.md
+
+# ======================
+# TEST SCRIPT CREATION
+# ======================
+
+Write-Host ''
+Write-Host 'Creating Test Script...' -ForegroundColor Cyan
+Write-Host ''
+$testScript = @"
+Write-Host  'Running the tests...' -ForegroundColor Magenta
+Write-Host ''
+dotnet test --nologo --logger "console;verbosity=detailed" .\$testProjectName\$testProjectCsproj
+"@
+
+$testScript | Out-File -FilePath test.ps1
+
+# =========================
+# GITHUB WORKFLOW CREATION
+# =========================
+
+cd ..
+cd .\.github\workflows\
+
+Write-Host ''
+Write-Host 'Creating Github Workflow...' -ForegroundColor Cyan
+Write-Host ''
+$workflowScript = @"
+name: $solutionName - Testing Results
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+
+    strategy:
+      matrix:
+        configuration: [Debug, Release]
+
+    runs-on: windows-latest  # For a list of available runner types, refer to
+                             # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    # Install the .NET Core workload
+    - name: Install .NET Core
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+
+    # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
+    - name: Setup MSBuild.exe
+      uses: microsoft/setup-msbuild@v2
+
+    # Execute all unit tests in the solution
+    - name: Execute Unit Tests
+      run: dotnet test --nologo --logger "console;verbosity=detailed" .\$solutionName\$testProjectName\$testProjectCsproj
+"@
+
+$solutionNameYml = $solutionName + '.yml'
+$workflowScript | Out-File -FilePath $solutionNameYml
