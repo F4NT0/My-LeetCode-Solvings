@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNesting", "MaximumNesting\MaximumNesting.csproj", "{CBC2ACDC-62D7-4081-8CBA-5DAF8D5A6935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumNestingTest", "MaximumNestingTest\MaximumNestingTest.csproj", "{636318A7-A008-4E2E-B01C-3B8E0E24F974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC2ACDC-62D7-4081-8CBA-5DAF8D5A6935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC2ACDC-62D7-4081-8CBA-5DAF8D5A6935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC2ACDC-62D7-4081-8CBA-5DAF8D5A6935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC2ACDC-62D7-4081-8CBA-5DAF8D5A6935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636318A7-A008-4E2E-B01C-3B8E0E24F974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636318A7-A008-4E2E-B01C-3B8E0E24F974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636318A7-A008-4E2E-B01C-3B8E0E24F974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636318A7-A008-4E2E-B01C-3B8E0E24F974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
