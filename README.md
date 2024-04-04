@@ -11,6 +11,10 @@
 
 ---
 
+## Math Challenges
+
+- [9. Palindrome Number](My-LeetCode-Solvings/blob/main/9/README.md) $\color{lightgreen}\sf Easy$
+
 ## String Challenges
 
 - [58. Length of Last Word](My-LeetCode-Solvings/blob/main/58/README.md) $\color{lightgreen}\sf Easy$
