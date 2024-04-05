@@ -40,3 +40,7 @@
 ## Linked List Challenges
 
 - [876. Middle of the Linked List](My-LeetCode-Solvings/blob/main/876/README.md) $\color{lightgreen}\sf Easy$
+
+## StringBuilder Challenges
+
+- [1544. Make The String Great](My-LeetCode-Solvings/blob/main/1544/README.md) $\color{lightgreen}\sf Easy$
