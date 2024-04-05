@@ -6,6 +6,8 @@ Language: C#
 
 Topic: $\color{yellow} \sf Matrix$
 
+Unit Tests: [![1672 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1672.yml/badge.svg?branch=main)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1672.yml)
+
 ---
 
 You are given an `m x n` integer grid accounts where `accounts[i][j]` is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the `j​​​​​​​​​​​th​​​`​ bank. Return the wealth that the richest customer has.

@@ -6,6 +6,8 @@ Language: C#
 
 Topic: $\color{yellow} \sf Arrays$
 
+Unit Tests: [![1480 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1480.yml/badge.svg?branch=main)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1480.yml)
+
 ---
 
 Given an array `nums`. We define a running sum of an array as 
