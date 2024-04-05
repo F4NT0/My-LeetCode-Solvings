@@ -57,6 +57,7 @@
 |---|---|
 | 1. TwoSum | [![1 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1.yml)
 | 9. Palindrome Number| [![9 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/9.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/9.yml)
+| 28. Find the Index of the First Occurrence in a String | [![28 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/28.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/28.yml)
 | 58. Length of Last Word| [![58 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml)
 | 79. Word Search | [![79 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/79.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/79.yml)
 | 205. Isomorphic Strings | [![205 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/205.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/205.yml)

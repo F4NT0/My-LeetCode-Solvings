@@ -136,7 +136,7 @@ Language: C#
 
 Topic: $\color{yellow} \sf insert \space topic \space here$
 
-Unit Tests: ![$solutionName - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml)
+Unit Tests: [![$solutionName - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml)
 
 ---
 
