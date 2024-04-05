@@ -21,6 +21,7 @@
 - [28. Find the Index of the First Occurrence in a String](My-LeetCode-Solvings/blob/main/28/README.md) $\color{lightgreen}\sf Easy$
 - [58. Length of Last Word](My-LeetCode-Solvings/blob/main/58/README.md) $\color{lightgreen}\sf Easy$
 - [205. Isomorphic Strings](My-LeetCode-Solvings/blob/main/205/README.md) $\color{lightgreen}\sf Easy$
+- [242. Valid Anagram](My-LeetCode-Solvings/blob/main/242/README.md) $\color{lightgreen}\sf Easy$ 
 - [383. Ransom Note](My-LeetCode-Solvings/blob/main/383/README.md) $\color{lightgreen}\sf Easy$
 - [1614. Maximum Nesting Depth of the Parentheses](My-LeetCode-Solvings/blob/main/1614/README.md) $\color{lightgreen}\sf Easy$
 
@@ -61,6 +62,7 @@
 | 58. Length of Last Word| [![58 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml)
 | 79. Word Search | [![79 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/79.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/79.yml)
 | 205. Isomorphic Strings | [![205 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/205.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/205.yml)
+| 242. Valid Anagram | [![242 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/242.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/242.yml)
 | 383. Ransom Note | [![383 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/383.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/383.yml)
 | 389. Find the Difference | [![389 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/389.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/389.yml)
 | 412. Fizz Buzz | [![412 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/412.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/412.yml)
