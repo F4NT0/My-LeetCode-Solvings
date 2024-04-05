@@ -2,9 +2,8 @@ name: 1480 - Testing Results
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    paths:
+      - '1480/**'
 
 jobs:
 
