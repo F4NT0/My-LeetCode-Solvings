@@ -44,3 +44,4 @@
 ## StringBuilder Challenges
 
 - [1544. Make The String Great](My-LeetCode-Solvings/blob/main/1544/README.md) $\color{lightgreen}\sf Easy$
+- [1768. Merge Strings Alternately](My-LeetCode-Solvings/blob/main/1768/README.md) $\color{lightgreen}\sf Easy$
