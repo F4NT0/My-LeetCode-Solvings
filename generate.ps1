@@ -126,13 +126,17 @@ dotnet test $testProjectName/$testProjectCsproj
 Write-Host ''
 Write-Host 'Creating Documentation...' -ForegroundColor Cyan
 Write-Host ''
+$solutionNameYml = $solutionName + '.yml'
 $readme = @"
 # $solutionName
+
 Level: `$\color{lightgreen}{\sf Easy}$` OR `$\color{gold}{\sf Medium}$` OR `$\color{red}{\sf Hard}$`
 
 Language: C#
 
 Topic: $\color{yellow} \sf insert \space topic \space here$
+
+Unit Tests: ![$solutionName - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml/badge.svg?branch=main)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml)
 
 ---
 
@@ -172,17 +176,12 @@ name: $solutionName - Testing Results
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+    paths:
+      - '$solutionName/**'
 
 jobs:
 
   build:
-
-    strategy:
-      matrix:
-        configuration: [Debug, Release]
 
     runs-on: windows-latest  # For a list of available runner types, refer to
                              # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
@@ -208,7 +207,7 @@ jobs:
       run: dotnet test --nologo --logger "console;verbosity=detailed" .\$solutionName\$testProjectName\$testProjectCsproj
 "@
 
-$solutionNameYml = $solutionName + '.yml'
+
 $workflowScript | Out-File -FilePath $solutionNameYml
 
 # --------------------
