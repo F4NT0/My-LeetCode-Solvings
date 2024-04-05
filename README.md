@@ -18,6 +18,7 @@
 
 ## String Challenges
 
+- [28. Find the Index of the First Occurrence in a String](My-LeetCode-Solvings/blob/main/28/README.md) $\color{lightgreen}\sf Easy$
 - [58. Length of Last Word](My-LeetCode-Solvings/blob/main/58/README.md) $\color{lightgreen}\sf Easy$
 - [205. Isomorphic Strings](My-LeetCode-Solvings/blob/main/205/README.md) $\color{lightgreen}\sf Easy$
 - [383. Ransom Note](My-LeetCode-Solvings/blob/main/383/README.md) $\color{lightgreen}\sf Easy$
