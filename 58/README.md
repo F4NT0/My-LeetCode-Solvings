@@ -6,7 +6,7 @@ Language: C#
 
 Topic: $\color{yellow} \sf Strings$
 
-Unit Tests: [![58 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml/badge.svg?branch=main)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml)
+Unit Tests: [![58 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml)
 
 ---
 

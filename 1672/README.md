@@ -6,7 +6,7 @@ Language: C#
 
 Topic: $\color{yellow} \sf Matrix$
 
-Unit Tests: [![1672 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1672.yml/badge.svg?branch=main)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1672.yml)
+Unit Tests: [![1672 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1672.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1672.yml)
 
 ---
 

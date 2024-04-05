@@ -1,0 +1,4 @@
+*.smalltalk linguist-detectable=false
+*.Smalltalk linguist-detectable=false
+*.st linguist-detectable=false
+*.St linguist-detectable=false
