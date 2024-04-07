@@ -45,12 +45,14 @@
 
 ## StringBuilder Challenges
 
+- [1249. Minimum Remove to Make Valid Parentheses](My-LeetCode-Solvings/blob/main/1249/README.md) $\color{gold}\sf Medium$
 - [1544. Make The String Great](My-LeetCode-Solvings/blob/main/1544/README.md) $\color{lightgreen}\sf Easy$
 - [1768. Merge Strings Alternately](My-LeetCode-Solvings/blob/main/1768/README.md) $\color{lightgreen}\sf Easy$
 
 ## Bit Manipulation Challenges
 
 - [389. Find the Difference](My-LeetCode-Solvings/blob/main/389/README.md) $\color{lightgreen}\sf Easy$
+
 
 # Unit Tests
 
@@ -67,6 +69,7 @@
 | 389. Find the Difference | [![389 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/389.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/389.yml)
 | 412. Fizz Buzz | [![412 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/412.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/412.yml)
 | 876. Middle of the Linked List | [![876 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/876.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/876.yml)
+| 1249. Minimum Remove to Make Valid Parentheses | [![1249 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1249.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1249.yml)
 | 1342. Number of Steps to Reduce a Number to Zero | [![1342 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1342.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1342.yml)
 | 1480. Running Sum of 1d Array | [![1480 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1480.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1480.yml)
 | 1614. Maximum Nesting Depth of the Parentheses | [![1614 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1614.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1614.yml)
