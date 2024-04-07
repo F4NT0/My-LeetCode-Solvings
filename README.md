@@ -32,7 +32,7 @@
 
 ## Matrix Challenges
 
-- [79. Word Search](My-LeetCode-Solvings/blob/main/79/README.md)  $\color{orange}\sf Medium$
+- [79. Word Search](My-LeetCode-Solvings/blob/main/79/README.md)  $\color{yellow}\sf Medium$
 - [1672. Richest Customer Wealth](My-LeetCode-Solvings/blob/main/1672/README.md) $\color{lightgreen}\sf Easy$
 
 ## List Challenges
