@@ -8,14 +8,14 @@ Write-Host '  PROJECT CONSOLE GENERATOR   '
 Write-Host '------------------------------'
 Write-Host ''
 Write-Host ''
-Write-Host 'Enter the Solution name: ' -ForegroundColor Green
+Write-Host 'Enter the Solution name (ex. 678): ' -ForegroundColor Green
 $solutionName = Read-Host '-> '
 mkdir $solutionName
 cd $solutionName
 dotnet new sln --name $solutionName
 
 # create a console project
-Write-Host  'Enter the Project name: ' -ForegroundColor Yellow
+Write-Host  'Enter the Project name (ex. ValidParenthesis): ' -ForegroundColor Yellow
 $projectName = Read-Host '-> '
 dotnet new console -o $projectName
 
