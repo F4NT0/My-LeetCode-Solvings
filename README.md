@@ -42,11 +42,12 @@
 
 ## Linked List Challenges
 
+- [2. Add Two Numbers](My-LeetCode-Solvings/blob/main/2/README.md) $\color{yellow}\sf Medium$
 - [876. Middle of the Linked List](My-LeetCode-Solvings/blob/main/876/README.md) $\color{lightgreen}\sf Easy$
 
 ## StringBuilder Challenges
 
-- [1249. Minimum Remove to Make Valid Parentheses](My-LeetCode-Solvings/blob/main/1249/README.md) $\color{gold}\sf Medium$
+- [1249. Minimum Remove to Make Valid Parentheses](My-LeetCode-Solvings/blob/main/1249/README.md) $\color{yellow}\sf Medium$
 - [1544. Make The String Great](My-LeetCode-Solvings/blob/main/1544/README.md) $\color{lightgreen}\sf Easy$
 - [1768. Merge Strings Alternately](My-LeetCode-Solvings/blob/main/1768/README.md) $\color{lightgreen}\sf Easy$
 
@@ -60,6 +61,7 @@
 | Challenge | Status
 |---|---|
 | 1. TwoSum | [![1 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1.yml)
+| 2. Add Two Numbers | [![2 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/2.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/2.yml)
 | 9. Palindrome Number| [![9 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/9.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/9.yml)
 | 28. Find the Index of the First Occurrence in a String | [![28 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/28.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/28.yml)
 | 58. Length of Last Word| [![58 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/58.yml)
@@ -69,6 +71,7 @@
 | 383. Ransom Note | [![383 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/383.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/383.yml)
 | 389. Find the Difference | [![389 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/389.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/389.yml)
 | 412. Fizz Buzz | [![412 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/412.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/412.yml)
+| 678. Valid Parenthesis String | [![678 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/678.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/678.yml)
 | 876. Middle of the Linked List | [![876 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/876.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/876.yml)
 | 1249. Minimum Remove to Make Valid Parentheses | [![1249 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1249.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1249.yml)
 | 1342. Number of Steps to Reduce a Number to Zero | [![1342 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1342.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/1342.yml)
