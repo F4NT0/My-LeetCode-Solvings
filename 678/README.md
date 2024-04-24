@@ -1,14 +1,42 @@
-# 678
+# 678. Valid Parenthesis String
 
-Level: $\color{lightgreen}{\sf Easy}$ OR $\color{gold}{\sf Medium}$ OR $\color{red}{\sf Hard}$
+Level: $\color{gold}{\sf Medium}$
 
 Language: C#
 
-Topic: $\color{yellow} \sf insert \space topic \space here$
+Topic: $\color{yellow} \sf String$
 
 Unit Tests: [![678 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/678.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/678.yml)
 
 ---
 
-ADD HERE THE DESCRIPTION OF THE PROJECT AND EXAMPLES
+Given a string s containing only three types of characters: `(`, `)` and `*`, return true if s is valid.
+
+The following rules define a valid string:
+
+- Any left parenthesis `(` must have a corresponding right parenthesis `)`.
+- Any right parenthesis `)` must have a corresponding left parenthesis `(`.
+- Left parenthesis `(` must go before the corresponding right parenthesis `)`.
+- `*` could be treated as a single right parenthesis `)` or a single left parenthesis `(` or an empty string "".
+ 
+
+## Example 1:
+
+- Input: s = "()"
+- Output: true
+
+## Example 2:
+
+- Input: s = "(*)"
+- Output: true
+
+## Example 3:
+
+- Input: s = "(*))"
+- Output: true
+
+## Constraints:
+
+- 1 <= s.length <= 100
+- s[i] is `(`, `)` or `*`.
 

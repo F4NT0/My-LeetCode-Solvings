@@ -23,6 +23,7 @@
 - [205. Isomorphic Strings](My-LeetCode-Solvings/blob/main/205/README.md) $\color{lightgreen}\sf Easy$
 - [242. Valid Anagram](My-LeetCode-Solvings/blob/main/242/README.md) $\color{lightgreen}\sf Easy$ 
 - [383. Ransom Note](My-LeetCode-Solvings/blob/main/383/README.md) $\color{lightgreen}\sf Easy$
+- [678. Valid Parenthesis String](My-LeetCode-Solvings/blob/main/678/README.md) $\color{yellow}\sf Medium$
 - [1614. Maximum Nesting Depth of the Parentheses](My-LeetCode-Solvings/blob/main/1614/README.md) $\color{lightgreen}\sf Easy$
 
 ## Array Challenges
