@@ -22,7 +22,7 @@
 
 ## Math Challenges
 
-- [9. Palindrome Number](My-LeetCode-Solvings/blob/main/9/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [9. Palindrome Number](9/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
 - [1342. Number of Steps to Reduce a Number to Zero](My-LeetCode-Solvings/blob/main/1342/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen) 
 
 ## String Challenges
