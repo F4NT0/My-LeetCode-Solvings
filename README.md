@@ -4,6 +4,15 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/F4NT0_C0D3?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/F4NT0_C0D3/)
 
+<table>
+    <tr>
+        <th><img src="img/2024-04.gif" width="100"></th>
+    </tr>
+    <tr>
+        <td>April 2024</td>
+    </tr>
+</table>
+
 ## My Languages
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
