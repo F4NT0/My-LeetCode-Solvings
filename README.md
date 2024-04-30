@@ -22,47 +22,47 @@
 
 ## Math Challenges
 
-- [9. Palindrome Number](9/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
-- [1342. Number of Steps to Reduce a Number to Zero](My-LeetCode-Solvings/blob/main/1342/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen) 
+- [9. Palindrome Number](9/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1342. Number of Steps to Reduce a Number to Zero](My-LeetCode-Solvings/blob/main/1342/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen) 
 
 ## String Challenges
 
-- [28. Find the Index of the First Occurrence in a String](My-LeetCode-Solvings/blob/main/28/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
-- [58. Length of Last Word](My-LeetCode-Solvings/blob/main/58/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
-- [205. Isomorphic Strings](My-LeetCode-Solvings/blob/main/205/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
-- [242. Valid Anagram](My-LeetCode-Solvings/blob/main/242/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen) 
-- [383. Ransom Note](My-LeetCode-Solvings/blob/main/383/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [28. Find the Index of the First Occurrence in a String](My-LeetCode-Solvings/blob/main/28/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [58. Length of Last Word](My-LeetCode-Solvings/blob/main/58/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [205. Isomorphic Strings](My-LeetCode-Solvings/blob/main/205/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [242. Valid Anagram](My-LeetCode-Solvings/blob/main/242/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen) 
+- [383. Ransom Note](My-LeetCode-Solvings/blob/main/383/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 - [678. Valid Parenthesis String](My-LeetCode-Solvings/blob/main/678/README.md) ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [1614. Maximum Nesting Depth of the Parentheses](My-LeetCode-Solvings/blob/main/1614/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [1614. Maximum Nesting Depth of the Parentheses](My-LeetCode-Solvings/blob/main/1614/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Array Challenges
 
-- [1.  Two Sum](My-LeetCode-Solvings/blob/main/1/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
-- [1480. Running Sum of 1d Array](My-LeetCode-Solvings/blob/main/1480/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [1.  Two Sum](My-LeetCode-Solvings/blob/main/1/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1480. Running Sum of 1d Array](My-LeetCode-Solvings/blob/main/1480/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Matrix Challenges
 
 - [79. Word Search](My-LeetCode-Solvings/blob/main/79/README.md)  ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [1672. Richest Customer Wealth](My-LeetCode-Solvings/blob/main/1672/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [1672. Richest Customer Wealth](My-LeetCode-Solvings/blob/main/1672/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## List Challenges
 
-- [412. Fizz Buzz](My-LeetCode-Solvings/blob/main/412/README.md)  ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [412. Fizz Buzz](My-LeetCode-Solvings/blob/main/412/README.md)  ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Linked List Challenges
 
 - [2. Add Two Numbers](My-LeetCode-Solvings/blob/main/2/README.md) ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [876. Middle of the Linked List](My-LeetCode-Solvings/blob/main/876/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [876. Middle of the Linked List](My-LeetCode-Solvings/blob/main/876/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## StringBuilder Challenges
 
 - [1249. Minimum Remove to Make Valid Parentheses](My-LeetCode-Solvings/blob/main/1249/README.md) ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [1544. Make The String Great](My-LeetCode-Solvings/blob/main/1544/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
-- [1768. Merge Strings Alternately](My-LeetCode-Solvings/blob/main/1768/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [1544. Make The String Great](My-LeetCode-Solvings/blob/main/1544/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1768. Merge Strings Alternately](My-LeetCode-Solvings/blob/main/1768/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Bit Manipulation Challenges
 
-- [389. Find the Difference](My-LeetCode-Solvings/blob/main/389/README.md) ![Medium](https://img.shields.io/badge/Easy-lightgreen)
+- [389. Find the Difference](My-LeetCode-Solvings/blob/main/389/README.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 
 # Unit Tests
