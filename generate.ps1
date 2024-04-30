@@ -130,11 +130,11 @@ $solutionNameYml = $solutionName + '.yml'
 $readme = @"
 # $solutionName
 
-Level: `$\color{lightgreen}{\sf Easy}$` OR `$\color{gold}{\sf Medium}$` OR `$\color{red}{\sf Hard}$`
+Level: ![Easy](https://img.shields.io/badge/Easy-lightgreen) | ![Medium](https://img.shields.io/badge/Medium-yellow) | ![Hard](https://img.shields.io/badge/Hard-red)
 
 Language: C#
 
-Topic: $\color{yellow} \sf insert \space topic \space here$
+Topic: 
 
 Unit Tests: [![$solutionName - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/$solutionNameYml)
 
@@ -145,6 +145,7 @@ ADD HERE THE DESCRIPTION OF THE PROJECT AND EXAMPLES
 "@
 
 $readme | Out-File -FilePath README.md
+$readme | Out-File -FilePath index.md
 
 # ======================
 # TEST SCRIPT CREATION

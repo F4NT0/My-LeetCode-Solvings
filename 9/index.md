@@ -4,7 +4,7 @@ Level: ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 Language: C#
 
-Topic: MATH
+Topic: `MATH`
 
 Unit Test: [![9 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/9.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/9.yml)
 

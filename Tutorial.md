@@ -16,3 +16,9 @@ This script will help you create the basic structure of your project, including:
 10. Create the README to add the challenge.
 11. Create a workflow for the Github to run the tests into a Github Pipeline.
 12. Create the local test script to run in powershell.
+
+## What to change
+
+- Open the .cs file generated in the folder you want, remove the hello world function
+- Put the code created into the .cs file in the project folder
+- Change the tests to run the informations definded into the project folder

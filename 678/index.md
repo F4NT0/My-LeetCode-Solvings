@@ -39,4 +39,3 @@ The following rules define a valid string:
 
 - 1 <= s.length <= 100
 - s[i] is `(`, `)` or `*`.
-

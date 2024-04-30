@@ -1,10 +1,10 @@
 ﻿# 28. Find the index of the first Ocurrence in a String
 
-Level: $\color{lightgreen}{\sf Easy}$
+Level: ![Medium](https://img.shields.io/badge/Medium-yellow)
 
 Language: C#
 
-Topic: $\color{yellow} \sf String$
+Topic: `String`
 
 Unit Tests: [![28 - Testing Results](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/28.yml/badge.svg)](https://github.com/F4NT0/My-LeetCode-Solvings/actions/workflows/28.yml)
 
