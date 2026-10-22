@@ -22,47 +22,47 @@
 
 ## Math Challenges
 
-- [9. Palindrome Number](9/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [1342. Number of Steps to Reduce a Number to Zero](1342/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen) 
+- [9. Palindrome Number](9/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1342. Number of Steps to Reduce a Number to Zero](1342/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen) 
 
 ## String Challenges
 
-- [28. Find the Index of the First Occurrence in a String](28/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [58. Length of Last Word](58/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [205. Isomorphic Strings](205/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [242. Valid Anagram](242/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen) 
-- [383. Ransom Note](383/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [678. Valid Parenthesis String](678/index) ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [1614. Maximum Nesting Depth of the Parentheses](1614/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [28. Find the Index of the First Occurrence in a String](28/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [58. Length of Last Word](58/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [205. Isomorphic Strings](205/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [242. Valid Anagram](242/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen) 
+- [383. Ransom Note](383/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [678. Valid Parenthesis String](678/index.md) ![Medium](https://img.shields.io/badge/Medium-yellow)
+- [1614. Maximum Nesting Depth of the Parentheses](1614/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Array Challenges
 
-- [1.  Two Sum](1/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [1480. Running Sum of 1d Array](1480/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1.  Two Sum](1/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1480. Running Sum of 1d Array](1480/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Matrix Challenges
 
-- [79. Word Search](79/index)  ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [1672. Richest Customer Wealth](1672/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [79. Word Search](79/index.md)  ![Medium](https://img.shields.io/badge/Medium-yellow)
+- [1672. Richest Customer Wealth](1672/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## List Challenges
 
-- [412. Fizz Buzz](412/index)  ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [412. Fizz Buzz](412/index.md)  ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Linked List Challenges
 
-- [2. Add Two Numbers](2/index) ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [876. Middle of the Linked List](876/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [2. Add Two Numbers](2/index.md) ![Medium](https://img.shields.io/badge/Medium-yellow)
+- [876. Middle of the Linked List](876/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## StringBuilder Challenges
 
-- [1249. Minimum Remove to Make Valid Parentheses](1249/index) ![Medium](https://img.shields.io/badge/Medium-yellow)
-- [1544. Make The String Great](1544/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
-- [1768. Merge Strings Alternately](1768/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1249. Minimum Remove to Make Valid Parentheses](1249/index.md) ![Medium](https://img.shields.io/badge/Medium-yellow)
+- [1544. Make The String Great](1544/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [1768. Merge Strings Alternately](1768/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 ## Bit Manipulation Challenges
 
-- [389. Find the Difference](389/index) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
+- [389. Find the Difference](389/index.md) ![Easy](https://img.shields.io/badge/Easy-lightgreen)
 
 
 # Unit Tests
